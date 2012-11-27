@@ -1,0 +1,27 @@
+Sprintrapport:
+	SCRUM sjekkliste - 5 						-Fredrik
+	Referat fra møter - 5 						-Christian
+	Skjermdump - 2							-Simen
+	revidere visjon - 8						-Ishrat
+	revidere mål - 8						-Ishrat
+	Modeller/artefakter og oppgavespesifikk dokumentasjon - 20	-victoria
+		Andre vedlegg - 13					-victoria
+	resultat for sprint - 8						-Victoria
+	Erfaringer fra spring - 5					-Christian
+	Mål og backlog for neste sprint - 13				-Fredrik
+	Revidere risikoliste - 5					-Ishrat
+	Gruppekontrakt - 20						-Christian
+	Løsningen/presentasjon som blir presentert for produkteier - 40 -victoria
+	Komme opp med en innovasjon - 20				-Simen
+	plan for videre utvikling av produkt - 13			-Simen
+	
+
+
+Utvikle prototype med enkel funksjonalitet:
+	finne ut hvordan "søk" skal implementeres - 20			-Ishrat
+	implementere meny -20						-Christian
+	forside		-20						-Fredrik
+	undersider 	- 20						-Fredrik
+
+	
+
